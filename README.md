@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from somaliland</h3>
 
-https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true
+https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966
+
 
 - 🔭 I’m currently working on **fornt-end developer**
 
